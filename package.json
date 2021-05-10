@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estratekpersona/nodejs-unit-test.git"
+  },
+  "author": "Estratek, S.A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estratekpersona/nodejs-unit-test/issues"
+  },
+  "homepage": "https://github.com/estratekpersona/nodejs-unit-test#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0",
+    "sinon": "^10.0.0"
+  }
+}

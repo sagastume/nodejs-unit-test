@@ -1,0 +1,57 @@
+[
+  {
+    "id": 221,
+    "deletedAt": null,
+    "porcentaje": 4.83,
+    "editable": false,
+    "es_fraccion": false,
+    "fraccion_numerador": null,
+    "fraccion_denominador": null,
+    "itempagomaestro": 346,
+    "itempagorecurso": 339
+  },
+  {
+    "id": 222,
+    "deletedAt": null,
+    "porcentaje": 4.83,
+    "editable": false,
+    "es_fraccion": false,
+    "fraccion_numerador": null,
+    "fraccion_denominador": null,
+    "itempagomaestro": 346,
+    "itempagorecurso": 338
+  },
+  {
+    "id": 279,
+    "deletedAt": null,
+    "porcentaje": 4.83,
+    "editable": false,
+    "es_fraccion": false,
+    "fraccion_numerador": null,
+    "fraccion_denominador": null,
+    "itempagomaestro": 346,
+    "itempagorecurso": 392
+  },
+  {
+    "id": 276,
+    "deletedAt": null,
+    "porcentaje": 4.83,
+    "editable": false,
+    "es_fraccion": false,
+    "fraccion_numerador": null,
+    "fraccion_denominador": null,
+    "itempagomaestro": 346,
+    "itempagorecurso": 341
+  },
+  {
+    "id": 277,
+    "deletedAt": null,
+    "porcentaje": 4.83,
+    "editable": false,
+    "es_fraccion": false,
+    "fraccion_numerador": null,
+    "fraccion_denominador": null,
+    "itempagomaestro": 346,
+    "itempagorecurso": 349
+  }
+]

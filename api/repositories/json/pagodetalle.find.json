@@ -1,0 +1,92 @@
+[
+  {
+    "id": 70969,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "437.40",
+    "monto": "437.40",
+    "itempago": 315,
+    "unidad": "5"
+  },
+  {
+    "id": 70968,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "375.00",
+    "monto": "375.00",
+    "itempago": 313,
+    "unidad": "5"
+  },
+  {
+    "id": 70967,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "375.00",
+    "monto": "375.00",
+    "itempago": 314,
+    "unidad": "5"
+  },
+  {
+    "id": 70966,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "480.15",
+    "monto": "480.15",
+    "itempago": 317,
+    "unidad": "5"
+  },
+  {
+    "id": 70965,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "45.00",
+    "monto": "45.00",
+    "itempago": 319,
+    "unidad": "5"
+  },
+  {
+    "id": 70964,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "45.00",
+    "monto": "45.00",
+    "itempago": 318,
+    "unidad": "5"
+  },
+  {
+    "id": 70963,
+    "deletedAt": null,
+    "cantidadunidadpago": null,
+    "tasa": "1.00",
+    "monto": null,
+    "itempago": 311,
+    "unidad": "5"
+  },
+  {
+    "id": 70962,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "217.35",
+    "monto": "217.35",
+    "itempago": 346,
+    "unidad": "5"
+  },
+  {
+    "id": 70961,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "250.00",
+    "monto": "250.00",
+    "itempago": 340,
+    "unidad": "1"
+  },
+  {
+    "id": 70960,
+    "deletedAt": null,
+    "cantidadunidadpago": 1,
+    "tasa": "4500.00",
+    "monto": "4500.00",
+    "itempago": 339,
+    "unidad": "1"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "id": 70962,
+  "createdAt": "2021-05-10T14:54:04+00:00",
+  "updatedAt": "2021-05-10T14:54:04+00:00",
+  "deletedAt": null,
+  "cantidadunidadpago": 1,
+  "tasa": "217.35",
+  "monto": "217.35",
+  "descripcion": null,
+  "orderat": 2,
+  "pago": 7243,
+  "cuentacontable": null,
+  "itempago": 346,
+  "unidad": "5",
+  "empresa": null
+}
